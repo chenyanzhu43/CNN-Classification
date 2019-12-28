@@ -1,8 +1,8 @@
 ## 5291 Advanced Data Analysis Final Project
 # A Study on CNN Classification: Detecting Skin Cancer
-+Team members: Luyue Chen, Guoyong Xu, Hanyu Gao, Yanzhu Chen, Zhaochen Li, Xuanhong Ye, Lulu Wang, Kanyan Chen
++ Team members: Luyue Chen, Guoyong Xu, Hanyu Gao, Yanzhu Chen, Zhaochen Li, Xuanhong Ye, Lulu Wang, Kanyan Chen
 
-+Project summary:
++ Project summary:
 
 Human Against Machine with 10000 training images (HAM10000) is a large dataset which contains 10015 dermatoscopic images and it also provides information on the performance of human expert diagnosis. The target of our project is to train a model as accurate as possible to detect different kinds of skin cancer, given the dermatoscopic images. Another objective is to build a live web app to use our model.
 
